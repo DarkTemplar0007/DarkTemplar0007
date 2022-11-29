@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DarkTemplar0007
-- 👀 I’m interested in python, c, maybe stuff like cobol, fortran, go ...
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @DarkTemplar0007 a speaking donkey
+- 👀 I’m interested in python, c,torturing myself with gentoo 
+- 🌱 I’m currently learning python and ebuild scripts
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ..............just dont. Not good idea
 
 <!---
