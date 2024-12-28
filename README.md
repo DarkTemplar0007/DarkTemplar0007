@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarkTemplar0007 a speaking donkey
+- 👋 Hi, I’m @DarkTemplar0007 a talking donkey
 - 👀 I’m interested in python, c,torturing myself with gentoo 
 - 🌱 I’m currently learning python and ebuild scripts
 - 💞️ I’m looking to collaborate on ... 
