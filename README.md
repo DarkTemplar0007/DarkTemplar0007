@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DarkTemplar0007 a talking donkey
-- 👀 I’m interested in python, c,torturing myself with gentoo 
-- 🌱 I’m currently learning python and ebuild scripts
+- 👀 I’m interested in python, c,torturing myself with ~~gentoo~~ nixos  
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ..............just dont. Not good idea
+- 📫 How to reach me
 
 <!---
 DarkTemplar0007/DarkTemplar0007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
